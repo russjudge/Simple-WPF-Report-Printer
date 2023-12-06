@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple WPF Report Printer", "Simple WPF Report Printer\Simple WPF Report Printer.csproj", "{A4016ED8-66AE-4829-BAE4-B48A59A8DF87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example", "Example\Example.csproj", "{B2C8BFA3-C983-4E65-B4CA-4C520B09FE91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4016ED8-66AE-4829-BAE4-B48A59A8DF87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4016ED8-66AE-4829-BAE4-B48A59A8DF87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4016ED8-66AE-4829-BAE4-B48A59A8DF87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4016ED8-66AE-4829-BAE4-B48A59A8DF87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2C8BFA3-C983-4E65-B4CA-4C520B09FE91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2C8BFA3-C983-4E65-B4CA-4C520B09FE91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2C8BFA3-C983-4E65-B4CA-4C520B09FE91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2C8BFA3-C983-4E65-B4CA-4C520B09FE91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2455D62-73A3-4C2C-8659-F3836C370B60}
+	EndGlobalSection
+EndGlobal
