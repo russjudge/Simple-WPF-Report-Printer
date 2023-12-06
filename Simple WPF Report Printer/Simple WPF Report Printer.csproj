@@ -19,6 +19,10 @@
     <PackageTags>print;report</PackageTags>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageRequireLicenseAcceptance>False</PackageRequireLicenseAcceptance>
+    <PackageId>RussJudge.SimpleWPFReportPrinter</PackageId>
+    <AssemblyName>SimpleWPFReportPrinter</AssemblyName>
+    <RepositoryUrl>https://github.com/russjudge/Simple-WPF-Report-Printer</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
   </PropertyGroup>
 
   <ItemGroup>
